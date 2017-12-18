@@ -1,0 +1,14 @@
+program main;
+var a,b,c;
+begin
+	a=10;
+	b=11;
+	c=12;
+	write a;
+	write b;
+	write c;
+	a=78;
+	c=(a+b+6-10)*2/c;
+	write c;
+	
+end.

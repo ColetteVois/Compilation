@@ -1,0 +1,9 @@
+program variable;
+
+var a,b,c;
+
+begin
+	a=10;
+	b=a+1;
+	c=(a*b)+3;
+end.

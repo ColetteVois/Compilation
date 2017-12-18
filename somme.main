@@ -1,0 +1,13 @@
+program main;
+
+var i;
+
+function somme(n1,n2);
+begin
+	
+	return n1+n2;
+end;
+
+begin
+	write somme(90,17)+somme(90,17);
+end.

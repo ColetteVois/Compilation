@@ -1,0 +1,12 @@
+program main;
+var a,b;
+
+begin
+	a=10;
+	b=10+288+12;
+	b=(b+a)*10+a;
+	write a;
+	write a+10;
+	write 125;
+	
+end.

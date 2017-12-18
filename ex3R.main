@@ -1,0 +1,17 @@
+program ex3;
+
+var i;
+
+function recF(n1);
+
+begin
+		
+		return n1;
+
+end;
+
+begin
+	i=10;
+		write recF(i);
+					
+end.

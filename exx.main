@@ -1,0 +1,16 @@
+program ex3;
+
+var a,b;
+
+function myfunc(n1,n2);
+begin
+       	return n1+n2;
+end;
+
+begin
+	a=10;
+	b=a*5;
+
+	write a;
+	write b;
+end.

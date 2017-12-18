@@ -1,0 +1,19 @@
+program ex3;
+
+var i;
+
+function myfunc(n1,n2);
+var a,b;
+
+begin
+		a=n1;
+       	return a+n2;
+end;
+
+begin
+	i=1;
+		
+		write myfunc(i,i);
+		
+					
+end.

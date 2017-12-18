@@ -1,0 +1,23 @@
+program main;
+var a,b,c,d,e,f;
+
+function somme(n1,n2);
+	var z;
+	begin
+		z=10+a;
+		return n1+n2;
+	end;
+
+begin
+	a=10;
+	b=a+1;
+	c=(a*b)+3;
+	if a < 5 then
+		write a
+	else
+		write b;
+
+	
+
+	
+end.

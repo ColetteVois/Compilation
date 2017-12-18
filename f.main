@@ -1,0 +1,12 @@
+program main;
+
+var i;
+
+function somme(n1,n2);
+begin
+	return n1+n2;
+end;
+
+begin
+	i=1;
+end.
